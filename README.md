@@ -9,6 +9,6 @@ Para correr este código se requieren de tres archivos.
 Este ejemplo lo desarrollé de parte de la Red de Observadores de Aves y Vida Silvestre de Chile [(ROC)](http://www.redobservadores.cl) como una herrmienta para el partner de Birdlife en Chile.
 
 
-**Items aún por desarrollar:**
+**Funcionalidades aún por desarrollar:**
 - Columna que indica en cuantos de los ultimos 5 años hubo por lo menos un registro
 - Columna con tasa de encuentro relativa
