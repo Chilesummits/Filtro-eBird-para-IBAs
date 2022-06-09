@@ -192,8 +192,3 @@ legend("top",
 ebd_in_poly %>% 
   filter(observation_date > "2000-01-01" & observation_date < "2021-01-01", common_name == "Ashy-headed Goose") %>% #ingresar rango de fechas y especie que quiere buscar
   summarise(conteo_max = max(observation_count, na.rm=TRUE),año_max_h = max(year(observation_date)),checklist = sampling_event_identifier)
-
-#FUNCIONALIDADES PENDIENTES
-#columna que indica en cuantos de los ultimos 5 años hubo por lo menos un registro
-
-#columna con encounter rate
