@@ -10,5 +10,6 @@ Este ejemplo lo desarrollé de parte de la Red de Observadores de Aves y Vida Si
 
 
 **Funcionalidades aún por desarrollar:**
-- Columna que indica en cuantos de los ultimos 5 años hubo por lo menos un registro
-- Columna con tasa de encuentro relativa
+- Columna que indica en cuantos de los ultimos 5 años hubo por lo menos un registro de la especie
+- Columna de tasa relativa de encuentro
+- Función para especificar un buffer que agranda el perimetro del polígono, para incluir listas adjacentes al área de interés
